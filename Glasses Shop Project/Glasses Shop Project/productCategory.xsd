@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="productCategory" targetNamespace="http://tempuri.org/productCategory.xsd" xmlns:mstns="http://tempuri.org/productCategory.xsd" xmlns="http://tempuri.org/productCategory.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="universityprojectConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="universityprojectConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Glasses_Shop_Project.Properties.Settings.GlobalReference.Default.universityprojectConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="productTableAdapter" GeneratorDataComponentClassName="productTableAdapter" Name="product" UserDataComponentName="productTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="universityprojectConnectionString (Settings)" DbObjectName="universityproject.product" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `category_id` FROM `product`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="category_id" DataSetColumn="category_id" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="productCategory" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="productCategory" msprop:Generator_UserDSName="productCategory">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="product" msprop:Generator_TableClassName="productDataTable" msprop:Generator_TableVarName="tableproduct" msprop:Generator_TablePropName="product" msprop:Generator_RowDeletingName="productRowDeleting" msprop:Generator_RowChangingName="productRowChanging" msprop:Generator_RowEvHandlerName="productRowChangeEventHandler" msprop:Generator_RowDeletedName="productRowDeleted" msprop:Generator_UserTableName="product" msprop:Generator_RowChangedName="productRowChanged" msprop:Generator_RowEvArgName="productRowChangeEvent" msprop:Generator_RowClassName="productRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="category_id" msprop:Generator_ColumnVarNameInTable="columncategory_id" msprop:Generator_ColumnPropNameInRow="category_id" msprop:Generator_ColumnPropNameInTable="category_idColumn" msprop:Generator_UserColumnName="category_id" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

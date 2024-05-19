@@ -1,0 +1,30 @@
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\Glasses Shop Project.exe.config
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\Glasses Shop Project.exe
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\Glasses Shop Project.pdb
+C:\Users\Dell\source\repos\Glasses Shop Project\obj\Debug\Glasses Shop Project.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Glasses Shop Project\obj\Debug\Glasses_Shop_Project.Customer.resources
+C:\Users\Dell\source\repos\Glasses Shop Project\obj\Debug\Glasses_Shop_Project.Distributor.resources
+C:\Users\Dell\source\repos\Glasses Shop Project\obj\Debug\Glasses_Shop_Project.Form1.resources
+C:\Users\Dell\source\repos\Glasses Shop Project\obj\Debug\Glasses_Shop_Project.Form2.resources
+C:\Users\Dell\source\repos\Glasses Shop Project\obj\Debug\Glasses_Shop_Project.Product.resources
+C:\Users\Dell\source\repos\Glasses Shop Project\obj\Debug\Glasses_Shop_Project.Properties.Resources.resources
+C:\Users\Dell\source\repos\Glasses Shop Project\obj\Debug\Glasses_Shop_Project.Purchase.resources
+C:\Users\Dell\source\repos\Glasses Shop Project\obj\Debug\Glasses_Shop_Project.Sale.resources
+C:\Users\Dell\source\repos\Glasses Shop Project\obj\Debug\Glasses Shop Project.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Glasses Shop Project\obj\Debug\Glasses Shop Project.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Glasses Shop Project\obj\Debug\Glasses Shop Project.exe
+C:\Users\Dell\source\repos\Glasses Shop Project\obj\Debug\Glasses Shop Project.pdb
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\MySql.Data.dll
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\Google.Protobuf.dll
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\Zstandard.Net.dll
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\System.Memory.dll
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\System.Buffers.dll
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dell\source\repos\Glasses Shop Project\bin\Debug\MySql.Data.xml
+C:\Users\Dell\source\repos\Glasses Shop Project\obj\Debug\Glasses Shop Project.csproj.CopyComplete
