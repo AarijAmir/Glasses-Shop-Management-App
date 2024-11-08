@@ -25,7 +25,6 @@ namespace Glasses_Shop_Project
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            String name = "Aarij Amir";
             int customerId_var = Int16.Parse(txtCustomerId.Text);
             String customerName_var = txtCustomerName.Text;
             String phoneNo_var = txtPhoneNumber.Text;
